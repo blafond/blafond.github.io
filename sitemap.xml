@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://teiid.org/teiid_embedded/quickstart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_microservices/subfolder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_microservices/subfolder/test/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_cloud/quickstart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_microservices/quickstart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_wildfly/quickstart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_wildfly_swarm/quickstart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/about/vdbs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/community/engineering_guidelines/</loc>
+    <lastmod>2017-05-19T15:02:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/community/contributing/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_wildfly/designer_downloads/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/</loc>
+    <lastmod>2017-05-19T15:02:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/roadmap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/community/</loc>
+    <lastmod>2017-05-19T15:02:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/community/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/issues/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_cloud/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_embedded/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_microservices/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_wildfly/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_wildfly_swarm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_cloud/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_embedded/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_microservices/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_wildfly/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.org/teiid_wildfly_swarm/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Teiid</title>
+    <link>https://teiid.org/about/</link>
+    <description>Recent content in Abouts on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://teiid.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Virtual Databases</title>
+      <link>https://teiid.org/about/vdbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/about/vdbs/</guid>
+      <description>The Virtual Database A virtual database (or VDB) is a container for components used to integrate data from multiple data sources, so that they can be accessed in an integrated manner through a single, uniform API.
+A VDB contains models, which define the structural characteristics of data sources, views, and Web services.
+VDB Creation and Validation VDBs may be defined as a single file mixture of DDL and or XML, or a zip (.</description>
+    </item>
+    
+  </channel>
+</rss>

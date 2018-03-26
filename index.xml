@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teiid</title>
+    <link>https://teiid.org/</link>
+    <description>Recent content on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 May 2017 15:02:30 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Teiid Embedded Quickstart</title>
+      <link>https://teiid.org/teiid_embedded/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_embedded/quickstart/</guid>
+      <description>Teiid Embedded Quickstart&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Subfolder under teiid microservices</title>
+      <link>https://teiid.org/teiid_microservices/subfolder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_microservices/subfolder/</guid>
+      <description>blah&amp;hellip;&amp;hellip;&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>TEST</title>
+      <link>https://teiid.org/teiid_microservices/subfolder/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_microservices/subfolder/test/</guid>
+      <description>Test</description>
+    </item>
+    
+    <item>
+      <title>Teiid Cloud Quickstart</title>
+      <link>https://teiid.org/teiid_cloud/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_cloud/quickstart/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Teiid Microservices Quickstart</title>
+      <link>https://teiid.org/teiid_microservices/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_microservices/quickstart/</guid>
+      <description>Teiid Microservices Quickstart&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly Quickstart</title>
+      <link>https://teiid.org/teiid_wildfly/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_wildfly/quickstart/</guid>
+      <description>Teiid Wildflly Quickstart&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly Swarm Quickstart</title>
+      <link>https://teiid.org/teiid_wildfly_swarm/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_wildfly_swarm/quickstart/</guid>
+      <description>Teiid Wildfly Quickstart&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Databases</title>
+      <link>https://teiid.org/about/vdbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/about/vdbs/</guid>
+      <description>The Virtual Database A virtual database (or VDB) is a container for components used to integrate data from multiple data sources, so that they can be accessed in an integrated manner through a single, uniform API.
+A VDB contains models, which define the structural characteristics of data sources, views, and Web services.
+VDB Creation and Validation VDBs may be defined as a single file mixture of DDL and or XML, or a zip (.</description>
+    </item>
+    
+    <item>
+      <title>Engineering Guidelines</title>
+      <link>https://teiid.org/community/engineering_guidelines/</link>
+      <pubDate>Fri, 19 May 2017 15:02:30 +0100</pubDate>
+      
+      <guid>https://teiid.org/community/engineering_guidelines/</guid>
+      <description>Heads up! TBD ... Please check back soon.  </description>
+    </item>
+    
+    <item>
+      <title>Contributing to Teiid</title>
+      <link>https://teiid.org/community/contributing/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.org/community/contributing/</guid>
+      <description>There are many ways to contribute to Teiid. All contributions are valued and welcomed, be it fixing a typo in documentation, raising an issue to report a bug, or creating a whole new awesome feature. Don&amp;rsquo;t worry if this is your first contribution to an open source project: the Teiid maintainers can help you if you need it.
+Improving documentation Documentation is in various places in our repositories. We are committed to streamlining this, but for now there are a few different places to look.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Designer Downloads</title>
+      <link>https://teiid.org/teiid_wildfly/designer_downloads/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.org/teiid_wildfly/designer_downloads/</guid>
+      <description>Latest Release 11.1.2 Final - February 19th, 2018  Update Site - (See installation instructions at the bottom of this page) Download Compatible with Teiid 9.0 and earlier releases Compatible with JBDS 11 releases Download Eclipse distro - Eclipse 4.7 (Oxygen)  Stable 11.x Releases  Version 11.1.2 - Released: 2/19/2018 - Release Notes - User Guide
+ Update Site ZIP Compatible with Teiid 9.0 &amp;amp; RHDS 11.1.0 GA &amp;amp; Eclipse 4.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://teiid.org/roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/roadmap/</guid>
+      <description>Roadmap Current Sprint: 12 Ends: May 12, 2017 (Fri)
+Preview Release Requirements &amp;amp; Stories
+JIRA Narrative
+JIRA Issues for Keynote</description>
+    </item>
+    
+    <item>
+      <title>About Teiid</title>
+      <link>https://teiid.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/about/</guid>
+      <description>Teiid offers a relational abstraction of all information sources that is highly performant and allows for integration with your existing relational tools. Teiid has an accompanying easy-to-use design tool that enables data architects to integrate disparate information in minutes. Teiid has a long history of addressing the data access needs of any size enterprise environment. Have a look at Why Teiid?, our feature matrix, and FAQ to see if this project is a good fit for your needs.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://teiid.org/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/blog/</guid>
+      <description> For the latest news in the Teiid Community visit: Teiid on Blogspot </description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://teiid.org/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/community/</guid>
+      <description>We  community! Contributions and feedback in whatever form are always welcome, as long as they&amp;rsquo;re constructive!
+Here are some important links:
+ Source code: GitHub organization IRC: #teiid on freenode  </description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://teiid.org/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/faq/</guid>
+      <description>What is Teiid? First it&amp;rsquo;s a whiptailed lizard, but it&amp;rsquo;s much more. Teiid provides a data virtualization and secure data access layer that can simplify your data integration with your applications.</description>
+    </item>
+    
+    <item>
+      <title>Search, log and monitor Teiid-related issues.</title>
+      <link>https://teiid.org/issues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/issues/</guid>
+      <description> There are 3 JIRA projects for issues related to Teiid and associated tools.
+Teiid Core &amp;ndash; &amp;gt; https://issues.jboss.org/projects/TEIID/issues Web Tooling &amp;ndash; &amp;gt; https://issues.jboss.org/projects/TEIIDTOOLS/issues Teiid Designer Tooling &amp;ndash; &amp;gt; https://issues.jboss.org/projects/TEIIDDES/issues </description>
+    </item>
+    
+    <item>
+      <title>Teiid Cloud</title>
+      <link>https://teiid.org/teiid_cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_cloud/</guid>
+      <description>Teiid Cloud Information&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Embedded</title>
+      <link>https://teiid.org/teiid_embedded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_embedded/</guid>
+      <description>Teiid Embedded Information&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Microservices</title>
+      <link>https://teiid.org/teiid_microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_microservices/</guid>
+      <description>Teiid Microservices Information&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly</title>
+      <link>https://teiid.org/teiid_wildfly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_wildfly/</guid>
+      <description>Teiid Wildfly Information&amp;hellip;.
+Teiid is a data virtualization system that allows applications to use data from multiple, heterogeneous data stores. Teiid is comprised of tools, components and services for creating and executing bi-directional data access services.
+Find documentation about legacy Teiid and Teiid Designer projects for your on-premise use-cases here:
+Teiid: http://teiid.jboss.org
+Teiid Designer: http://teiiddesigner.jboss.org
+Through abstraction and federation, data is accessed and integrated in real-time across distributed data sources without copying or otherwise moving data from its system of record.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly Swarm</title>
+      <link>https://teiid.org/teiid_wildfly_swarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.org/teiid_wildfly_swarm/</guid>
+      <description>Teiid Wildfly Swarm Information&amp;hellip;.</description>
+    </item>
+    
+  </channel>
+</rss>
